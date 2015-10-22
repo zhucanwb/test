@@ -1,3 +1,6 @@
 /aaa.txt
 /*.txt
+<<<<<<< HEAD
 aabbcc
+=======
+>>>>>>> b597e3dcf2c452a15a5eebbf263db8c611965dcc
